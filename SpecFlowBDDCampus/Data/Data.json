@@ -1,0 +1,31 @@
+﻿[
+  {
+    "Email": "mail@gmail.com",
+    "MotPasse": "Mdp1111",
+    "ConfirmMotPasse": "Mdp1111",
+    "Nom": "LEMAIRE",
+    "Prénom": "Jaques",
+    "PaysNationnalité": "Française",
+    "CodePostal": "75014",
+    "Ville": "Paris",
+    "Telephone": "0756453423"
+
+  },
+
+  {
+    "Email": "mail@gmail.com",
+    "MotPasse": "Mdp1111",
+    "ConfirmMotPasse": "Mdp1111",
+    "Nom": "MACRON",
+    "Prénom": "Jaques",
+    "PaysNationnalité": "Française",
+    "CodePostal": "75014",
+    "Ville": "Paris",
+    "Telephone": "0756453423",
+    //"ProfessionInstitution": {
+     "Fonction": "Enseignant",
+     "NomOrganisme": "Ecole"
+    //}
+
+  }
+]
